@@ -6,11 +6,11 @@ Este repositorio contiene todas las implementaciones de los 5 cursos que complet
 ## Cursos
 
 - Curso 1. Neural Networks and Deep Learning: https://www.coursera.org/learn/neural-networks-deep-learning
-  - Python Basics with Numpy
-  - Logistic Regression with a Neural Network mindset
-  - Planar data classification with one hidden layer
-  - Building your Deep Neural Network Step by Step
-  - Deep Neural Network - Application
+  - [Python Basics with Numpy](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Python%20Basics%20with%20Numpy.ipynb)
+  - [Logistic Regression with a Neural Network mindset](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
+  - [Planar data classification with one hidden layer](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
+  - [Building your Deep Neural Network Step by Step](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20Step%20by%20Step.ipynb)
+  - [Deep Neural Network - Application](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Curso 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
   PRÓXIMAMENTE
