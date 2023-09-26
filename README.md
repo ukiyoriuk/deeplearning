@@ -18,3 +18,8 @@ Este repositorio contiene todas las implementaciones de los 5 cursos que complet
   - [Gradient Checking](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
   - [Optimization Methods](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
   - [TensorFlow Introduction](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Introduction.ipynb)
+ 
+- Curso 3. Structuring Machine Learning Projects: https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning
+  Este curso no cuenta con ninguna tarea de implementación.
+
+- Curso 4. Convolutional Neural Networks: https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning PROXIMAMENTE!
