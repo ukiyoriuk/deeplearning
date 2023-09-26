@@ -13,4 +13,8 @@ Este repositorio contiene todas las implementaciones de los 5 cursos que complet
   - [Deep Neural Network - Application](https://github.com/ukiyoriuk/deeplearning/blob/main/Neural%20Networks%20%26%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Curso 2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization: https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning
-  PRÓXIMAMENTE
+  - [Inicialization](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Initialization.ipynb)
+  - [Regularization](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Regularization.ipynb)
+  - [Gradient Checking](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Gradient%20Checking.ipynb)
+  - [Optimization Methods](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Optimization%20methods.ipynb)
+  - [TensorFlow Introduction](https://github.com/ukiyoriuk/deeplearning/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Tensorflow%20Introduction.ipynb)
